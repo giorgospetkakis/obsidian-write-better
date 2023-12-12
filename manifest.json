@@ -7,5 +7,5 @@
 	"author": "Giorgos Petkakis",
 	"authorUrl": "https://giorgospetkakis.me/",
 	"fundingUrl": "",
-	"isDesktopOnly": false,
+	"isDesktopOnly": true
 }
